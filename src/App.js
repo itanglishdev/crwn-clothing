@@ -1,8 +1,13 @@
 
 const  App =() => {
   return (
-    <div>
-      Hello world
+    <div className="categories-container">
+     <div className="category-container">
+      {/* <img/> */}
+      <div>
+        <h2>Hats</h2>
+      </div>
+     </div>
     </div>
   );
 }
